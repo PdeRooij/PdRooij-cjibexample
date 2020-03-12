@@ -1,6 +1,6 @@
 library(mongolite)
 
-
+# MongoDB? Is dit wel handig?
 # Dit duurt even
 db <- mongo(collection = "almereparkingjson",
             url = sprintf(
