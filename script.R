@@ -7,6 +7,8 @@ library(plotly)
 
 library(lubridate)
 
+# Dit script is nog steeds niet goed.
+
 # MongoDB? Is dit wel handig?
 # Dit duurt even
 db <- mongo(collection = "almereparkingjson",
