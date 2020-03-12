@@ -8,6 +8,7 @@ library(plotly)
 library(lubridate)
 
 # Dit script is nog steeds niet goed.
+# Syntax van commit was nog niet helemaal goed.
 
 # MongoDB? Is dit wel handig?
 # Dit duurt even
